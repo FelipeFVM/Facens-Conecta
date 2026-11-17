@@ -1,6 +1,6 @@
 // Service worker: permite instalar o app e usá-lo sem internet.
 // Estratégia "rede primeiro": sempre tenta a versão mais nova e cai no cache se estiver offline.
-const CACHE = "mbc-facens-v5";
+const CACHE = "mbc-facens-v6";
 const ARQUIVOS = [
   "./", "index.html", "styles.css", "data.js", "native.js", "app.js", "manifest.webmanifest",
   "assets/mapa-facens.webp", "assets/mapa-facens-vertical.jpg",

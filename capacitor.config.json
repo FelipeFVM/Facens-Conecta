@@ -1,6 +1,6 @@
 {
-  "appId": "br.facens.meubairroconecta",
-  "appName": "Bairro Conecta",
+  "appId": "br.facens.facensconecta",
+  "appName": "Facens Conecta",
   "webDir": "app",
   "backgroundColor": "#0b5cab",
   "ios": { "contentInset": "never" },

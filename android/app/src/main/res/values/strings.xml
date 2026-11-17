@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Bairro Conecta</string>
-    <string name="title_activity_main">Bairro Conecta</string>
-    <string name="package_name">br.facens.meubairroconecta</string>
-    <string name="custom_url_scheme">br.facens.meubairroconecta</string>
+    <string name="app_name">Facens Conecta</string>
+    <string name="title_activity_main">Facens Conecta</string>
+    <string name="package_name">br.facens.facensconecta</string>
+    <string name="custom_url_scheme">br.facens.facensconecta</string>
 </resources>

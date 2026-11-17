@@ -1,4 +1,4 @@
-# Meu Bairro Conecta — Campus Facens
+# Facens Conecta
 
 Mapa colaborativo de ocorrências e sugestões de mobilidade no campus Facens (UPx4 — Mobilidade e Urbanização).
 Um único código web (`app/`) roda em três plataformas: **web (PWA)**, **Android** e **iOS** (via [Capacitor](https://capacitorjs.com)).
@@ -64,5 +64,5 @@ Plugins: `@capacitor/geolocation`, `local-notifications`, `haptics`, `share`, `a
 Ícones e splash foram gerados a partir de `resources/` com `npx @capacitor/assets generate`.
 
 ## Documentação
-`docs/UPx4 - Proposta - Meu Bairro Conecta (corrigido).docx` — proposta corrigida.
+`docs/UPx4 - Proposta - Facens Conecta (corrigido).docx` — proposta corrigida.
 Para regerar: `NODE_PATH=<node_modules com docx> node docs/gerar_documento.js`.

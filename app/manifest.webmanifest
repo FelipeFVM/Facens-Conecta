@@ -1,6 +1,6 @@
 {
-  "name": "Meu Bairro Conecta — Campus Facens",
-  "short_name": "Bairro Conecta",
+  "name": "Facens Conecta",
+  "short_name": "Facens Conecta",
   "description": "Mapa colaborativo de ocorrências e sugestões de mobilidade no campus Facens.",
   "lang": "pt-BR",
   "start_url": "./",

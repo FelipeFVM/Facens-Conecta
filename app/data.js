@@ -1,4 +1,4 @@
-// Dados base do protótipo "Meu Bairro Conecta — Campus Facens".
+// Dados base do protótipo "Facens Conecta".
 // Coordenadas em % sobre a ilustração do campus (assets/mapa-facens.webp, 1600x918).
 // Prédios A–L e portarias 1 e 2 conforme o mapa de blocos do campus.
 

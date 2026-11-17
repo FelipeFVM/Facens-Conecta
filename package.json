@@ -1,8 +1,8 @@
 {
-  "name": "meu-bairro-conecta",
+  "name": "facens-conecta",
   "version": "1.0.0",
   "private": true,
-  "description": "Meu Bairro Conecta — mapa colaborativo de mobilidade do campus Facens (web/PWA, Android e iOS)",
+  "description": "Facens Conecta — mapa colaborativo de mobilidade do campus Facens (web/PWA, Android e iOS)",
   "scripts": {
     "dev": "python3 -m http.server 5173 --directory app",
     "sync": "cap sync",

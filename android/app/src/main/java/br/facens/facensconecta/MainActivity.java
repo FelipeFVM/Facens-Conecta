@@ -1,4 +1,4 @@
-package br.facens.meubairroconecta;
+package br.facens.facensconecta;
 
 import com.getcapacitor.BridgeActivity;
 

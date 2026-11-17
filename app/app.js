@@ -1,4 +1,4 @@
-/* Meu Bairro Conecta — Campus Facens (protótipo MVP)
+/* Facens Conecta (protótipo MVP)
  * Mapa interativo + cadastro de ocorrências/sugestões + confirmação social (curtida)
  * + painel de status + rota/alertas. Dados salvos no navegador (localStorage).
  */
@@ -577,7 +577,7 @@
     if (!act || !o) return;
     if (act === "compartilhar") {
       const c = CATEGORIAS[o.cat];
-      Plataforma.compartilhar(o.titulo, `${c.icone} ${c.nome} · ${STATUS[o.status].nome}\n📍 ${descreverLocal(o)} — campus Facens\n${o.desc}\n${o.confirmacoes} confirmações no Meu Bairro Conecta`)
+      Plataforma.compartilhar(o.titulo, `${c.icone} ${c.nome} · ${STATUS[o.status].nome}\n📍 ${descreverLocal(o)} — campus Facens\n${o.desc}\n${o.confirmacoes} confirmações no Facens Conecta`)
         .then((r) => { if (r === "copiado") toast("Texto copiado para compartilhar."); });
       return;
     }

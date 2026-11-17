@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace = "br.facens.meubairroconecta"
+    namespace = "br.facens.facensconecta"
     compileSdk = rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "br.facens.meubairroconecta"
+        applicationId "br.facens.facensconecta"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
